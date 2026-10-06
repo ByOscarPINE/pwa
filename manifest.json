@@ -1,7 +1,7 @@
 {
     "name" : "Cafecito Chido",
     "short_name" : "Cafecito",
-    "start_url" : "/index.html",
+    "start_url" : "./index.html",
     "display" : "standalone",
     "background_color" : "#DB4938",
     "theme_color" : "#FDFDFD",
