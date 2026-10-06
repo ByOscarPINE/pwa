@@ -1,10 +1,17 @@
-const CACHE_NAME = "cafecito-chido-v2";
+const CACHE_NAME = "cafecito-chido-v3";
 const APP_SHELL = [
 	"./",
 	"./index.html",
 	"./css/style.css",
 	"./js/app.js",
 	"./manifest.json",
+	"./images/icons/icon-96x96.png",
+	"./images/icons/icon-128x128.png",
+	"./images/icons/icon-144x144.png",
+	"./images/icons/icon-152x152.png",
+	"./images/icons/icon-192x192.png",
+	"./images/icons/icon-384x384.png",
+	"./images/icons/icon-512x512.png",
 	"./images/01-espresso.jpg",
 	"./images/02-cappuccino.jpg",
 	"./images/03-iced-coffee.jpg",
