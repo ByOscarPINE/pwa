@@ -632,7 +632,7 @@ document.addEventListener("DOMContentLoaded", () => {
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
     navigator.serviceWorker
-      .register("/serviceworker.js")
+      .register("./serviceworker.js")
       .then((reg) => {
         console.log("Service Worker registrado con éxito:", reg.scope);
       })
